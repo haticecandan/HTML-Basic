@@ -1,0 +1,18 @@
+<h1> Hatice Candan </h1>
+<!-- Açıklama satırı -->
+<!-- Kodluyoruz Frontend Eğitimi ilk ödevi
+-->
+<h2> Hakkımda </h2>
+<!--  ctrl + ö ile kısayoldan açıklama satırı ekleyebiliriz <h2> deneme</h2> -->
+<p>
+    Merhabalar Ben Hatice Candan. 26 yaşındayım, Ankara'da yaşıyorum. Biyomedikal ve Elektrik&Elektronik Mühendisiyim ve kendimi 
+    web alanında geliştirmek için HTML öğrenmeye başladım. Kariyerime yazılım alanında devam etmek istiyorum.
+</p>
+<h3> Nelerden Hoşlanırım ? </h3>
+<p>
+<p>Hayvanları çok severim özellikle kedileri. Lily adında bir kedim var 1.5 yaşında dünyalar güzeli bir kız :)</p> <!-- SHİFT + TAB ile hizalama yapabilirim-->
+<p>Araştırma yapmayı, yeni şeyler öğrenmeyi çok severim</p>
+<p>Her ne kadar son zamanlarda okuyamasam da kitap okumayı da çok severim özellikle dünya edebiyatı klasiklerini</p>
+<p>Tüm bunlar dışında el işi ürünleri üretmeyi severim. Bir ara mum yapmaya merak salmıştım kalıp kalıp mum yapıyordum.</p>
+<p>Bir ara da yağlı boya tablolar yapıyordum. Odamda kendi yaptığım tablolar asılı :)</p>
+</p>
